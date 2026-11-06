@@ -42,6 +42,7 @@ URL 必须是 `codeload.github.com`，不要用 `github.com/.../archive`（会 3
 ```
 lib/                引擎：补丁应用/回滚、dock 后端、规则、身份注入、
                     红队事实库（store/tools/schema/score/evidence）、网络范围与授权闸
+skills/redteam/     23 个技能文档（Markdown runbook），首次启动同步到 $DSH_HOME/redteam/skills
 client.js           dock 前端产物（双页签 UI）
 presets/            预设：红队模式（主会话 + 5 个执行角色）
 scripts/            构建与装配脚本（embed-prompt / build:client / profile-bundle / 报告导出）

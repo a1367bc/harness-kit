@@ -43,7 +43,6 @@ Bundled skills under skills/redteam/ originate from the dsh-purge upstream proje
 | `docs/notice/` | 上游作者的个人照片、微信二维码等（隐私） |
 | `LICENSE-COMMERCIAL.md` | 上游商业授权说明，不随本副本分发 |
 | `.github/` | 上游发布流水线 |
-| `skills/` | 与本副本无关（另有一套已单独归档） |
 | `docs/v1.1.34-prompt-inject.md` | 完整提示词原文，不随本副本再分发 |
 
 **重写**：`README.md`、`package.json`（包名 `harness-kit`，移除 author / homepage / repository / bugs 字段）。
