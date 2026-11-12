@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Harness Kit Index",
+    "zh": "Harness Kit 插件索引"
+  },
+  "description": {
+    "en": "Community index listing the harness-kit DSH patch plugin.",
+    "zh": "列出 harness-kit（DeepSeek Harness 本地补丁插件）的社区索引。"
+  },
+  "plugins": [
+    {
+      "name": "harness-kit",
+      "title": {
+        "en": "Harness Kit",
+        "zh": "Harness Kit（DSH 本地补丁插件）"
+      },
+      "description": {
+        "en": "DSH local patch plugin: patch engine, dock panel, red-team drill bench, presets and skills.",
+        "zh": "DeepSeek Harness 本地补丁插件：补丁引擎、dock 面板、红队演练台、预设与技能。"
+      },
+      "author": "a1367bc",
+      "homepage": "https://github.com/a1367bc/harness-kit",
+      "repository": {
+        "url": "https://github.com/a1367bc/harness-kit"
+      },
+      "metadata": {
+        "keywords": [
+          "dsh",
+          "plugin",
+          "redteam",
+          "harness"
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.1.92",
+          "publishTimestamp": 1793950149,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/a1367bc/harness-kit",
+            "commit": "8936246828ba96c290e389a54a645f8a2c8dd29c"
+          }
+        }
+      ]
+    }
+  ]
+}
